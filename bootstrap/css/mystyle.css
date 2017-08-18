@@ -1,0 +1,20 @@
+body{
+  background: black;
+}
+h3 {
+    text-shadow: 2px 2px 3px;
+    color: white;
+}
+.navbar-brand{
+  text-shadow: 2px 2px 4px #000000;
+  color: red;
+}
+.container1{
+  color: white;
+}
+p{
+  font-family: verdana;
+}
+#pColor{
+  color: white;
+}
